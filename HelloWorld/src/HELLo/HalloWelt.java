@@ -3,7 +3,7 @@ package HELLo;
 public class HalloWelt {
 	
 	
-	public static String text = "Hallo du scheiß Welt";
+	public static String text = "L33T!";
 
 	public static void main(String[] args) {
 		// Gebe Mir einen Sinnlosen Text aus!
